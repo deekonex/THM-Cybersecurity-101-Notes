@@ -7,13 +7,18 @@ Personal study notes for TryHackMe Cybersecurity 101 learning path.
 ```
 THM-Cybersecurity-101-Notes/
 ├── 01-Start/
-│   └── README.md
+│   ├── README.md
+│   └── Search-Skills.md
 ├── 02-Linux Fundamentals/
 │   └── README.md
 ├── 03-Windows and AD Fundamentals/
 │   └── README.md
 ├── 04-Command Line/
-│   └── README.md
+│   ├── README.md
+│   ├── 4.02_Windows_Command_Line/
+│   │   └── README.md
+│   └── 4.03_Linux_Shell/
+│       └── Linux_Shell.md
 ├── 05-Networking/
 │   └── README.md
 ├── 06-Cryptography/
@@ -50,6 +55,8 @@ Windows operating system and Active Directory basics.
 
 ### [04-Command Line](./04-Command%20Line/)
 Command-line tools and scripting essentials.
+- [Windows Command Line](./04-Command%20Line/4.02_Windows_Command_Line/)
+- [Linux Shell](./04-Command%20Line/4.03_Linux_Shell/)
 
 ### [05-Networking](./05-Networking/)
 Networking concepts, protocols, and infrastructure.

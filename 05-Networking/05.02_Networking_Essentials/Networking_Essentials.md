@@ -1,17 +1,5 @@
 # Networking Essentials
 
-## Learning Objectives
-
-By the end of this module, you will understand:
-- Core networking protocols (DHCP, ARP, ICMP, NAT)
-- How IP addresses are dynamically assigned to devices
-- How Layer 2 and Layer 3 address translation works
-- Network diagnostics and troubleshooting tools
-- Routing protocols and path determination
-- Practical command-line tools for network analysis (tshark, tcpdump, ping, traceroute)
-
----
-
 ## DHCP (Dynamic Host Configuration Protocol)
 
 ### Purpose
